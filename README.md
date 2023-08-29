@@ -7,3 +7,7 @@
 * GHI is the acronym for Global Horizontal Irradiance which represents the total amount of shortwave radiation received from above by a surface that is horizontal (parallel) to the ground. GHI is the most important parameter for the calculation of PV electricity yield. Both DHI & DNI are actually components of GHI and mathematically,
 
 \$Global Horizontal Irradiance (GHI) = Direct Normal Irradiance (DNI)* cos(solar zenith angle)  +  Diffused Horizontal Irradiance (DHI)$
+
+Scope for the Simulink Model
+![WhatsApp Image 2023-07-09 at 5 58 36 PM](https://github.com/bazingamofos/MPPT-Matlab-Simulink/assets/69231405/e898ab21-1613-4d06-bca7-43f193115166)
+
